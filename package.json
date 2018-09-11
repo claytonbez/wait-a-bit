@@ -1,0 +1,11 @@
+{
+  "name": "wait-a-bit",
+  "version": "0.0.1",
+  "description": "An Event emitter based timer with argument returns",
+  "main": "src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CB BEZUIDENHOUT <bezclayton@gmail.com>",
+  "license": "MIT"
+}
